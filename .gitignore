@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.npz
+*.joblib
+*.jsonl
+data/
+outputs/
+.DS_Store
